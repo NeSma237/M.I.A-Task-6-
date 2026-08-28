@@ -1,0 +1,9 @@
+{
+  "vocab_size": 2658,
+  "embed_dim": 256,
+  "decoder_dim": 512,
+  "attention_dim": 512,
+  "encoder": "efficientnet_b3",
+  "architecture": "CNN Encoder + Bahdanau Attention + LSTM Decoder",
+  "trained_on": "Flickr8k"
+}
